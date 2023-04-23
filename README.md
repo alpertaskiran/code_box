@@ -1,7 +1,7 @@
 #  Coding Interview Questions
 
 
-Leetcode,Stratascratch and HackerRank practice questions. For repreducability follow:
+Leetcode, Stratascratch and HackerRank practice questions. For repreducability:
 
 ```python
 
